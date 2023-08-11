@@ -1,6 +1,6 @@
 # Uptime-Kuma-Web-API
 
-## API wrapper for [Uptime Kuma](https://github.com/louislam/uptime-kuma) using [Uptime-Kuma-API](https://github.com/lucasheld/uptime-kuma-api)
+## API wrapper for Uptime-status-App
 
 ---
 
@@ -43,5 +43,4 @@ You will connect with those credentials:
 - Multi user Kuma api ( without privilege YET!!) with a small SQLite db
 - Easy to use REST API with most of the Uptime-Kuma features
 - Swagger Docs
-- Dockerized [UptimeKuma_RestAPI Image](https://hub.docker.com/repository/docker/medaziz11/uptimekuma_restapi)
 - Multi-architecture support (amd64, arm64)
